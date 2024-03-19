@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+/*module journal {
+	requires junit;
+}*/
